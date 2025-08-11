@@ -6,13 +6,7 @@
 Este repositorio contiene todas las tareas y actividades realizadas durante el curso de **Introducción a Ciencia de Datos** del segundo semestre de 2025.
 
 
-## Cronograma del Proyecto
 
-| Entregable    | Fecha de Inicio | Fecha de Entrega | Estado     |
-|---------------|------------------|------------------|------------|
-| Entrega 1     | 22/08/2024       | 08/10/2024       | Revisado   |
-| Entrega 2     | -                | 22/11/2024       | Incompleto |
-| Entrega 3     | -                | 06/12/2024       | Incompleto |
 
 ## Estado del Proyecto
 
