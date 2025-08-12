@@ -35,6 +35,7 @@ Para seguir el curso necesitarás tener instalado:
   - `matplotlib`
   - `seaborn`
   - `scikit-learn`
+  - `geopandas`
 
 
 
