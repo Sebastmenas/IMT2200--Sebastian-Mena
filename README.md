@@ -15,7 +15,21 @@ Este repositorio contiene todas las tareas y actividades realizadas durante el c
 
 ## Cómo Usar Este Repositorio
 
-1. **Clonar el Repositorio**
+
+## 🧰 Requisitos
+
+Para seguir el curso necesitarás tener instalado:
+
+- Python 3.10 o superior
+- Jupyter Notebook o JupyterLab
+- Bibliotecas de Python:
+  - `numpy`
+  - `pandas`
+  - `matplotlib`
+  - `seaborn`
+  - `scikit-learn`
+
+ **Clonar el Repositorio**
    ```bash
 
    git clone https://github.com/Sebastmenas/IMT2200-Sebastian-Mena.git
